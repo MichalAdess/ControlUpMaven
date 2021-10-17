@@ -3,7 +3,7 @@ package pages;
 import infra.enums.UnitsEnum;
 import infra.ui.BaseWE;
 import infra.ui.PopLinkWE;
-import interfaces.IConversion;
+import infra.interfaces.IConversion;
 
 public class TemperatureConversionPage extends BasePage {
 

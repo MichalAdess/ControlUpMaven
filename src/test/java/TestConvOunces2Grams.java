@@ -2,7 +2,7 @@ import dtos.TestBeanBase;
 import dtos.TestConvOunces2GramsDTO;
 import infra.enums.TypeMenuEnum;
 import infra.enums.UnitsEnum;
-import interfaces.IConversion;
+import infra.interfaces.IConversion;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;

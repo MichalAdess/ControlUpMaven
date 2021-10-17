@@ -1,4 +1,4 @@
-package interfaces;
+package infra.interfaces;
 
 import dtos.TestBeanBase;
 import infra.enums.UnitsEnum;

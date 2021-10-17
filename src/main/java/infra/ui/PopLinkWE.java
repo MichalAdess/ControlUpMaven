@@ -1,7 +1,7 @@
 package infra.ui;
 
 
-import interfaces.IConversion;
+import infra.interfaces.IConversion;
 
 public class PopLinkWE extends BaseWE {
 
